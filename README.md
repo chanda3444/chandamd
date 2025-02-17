@@ -1,15 +1,6 @@
-<a href="https://github.com/chanda3444/chandamd"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0013FF&center=true&width=1000&height=200&lines=MALAKA-MD-V1.0" alt="Typing SVG" /></a>
+<a href="https://github.com/chanda3444/chandamd"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0013FF&center=true&width=1000&height=200&lines=CHANDA-MD" alt="Typing SVG" /></a>
   </p>
   
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-</h3>
-
-<img src="https://i.ibb.co/JrdxHSY/3439.jpg" width="300" height="190">
-</div>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a>
-
-<p>
 <a href="https://whatsapp.com/channel/0029Vb0ux6E5Ui2VPhL49N2e"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://github.com/chanda3444/chandamd"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://github.com/chanda3444/chandamd"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://chat.whatsapp.com/LqwlyO7VyYD8hAXLQ4GAvI"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
 </p>
